@@ -1,5 +1,5 @@
-page('/', index);
 page();
+page('/', index);
 page('/contact', contact);
 
 function index() {
